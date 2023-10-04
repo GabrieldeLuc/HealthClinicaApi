@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapi.healthclinicaapi.tarde", "webapi.healthclinicaapi.tarde.csproj", "{ACDD77A9-75B2-4FCD-83C0-0C03F997F45C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDD77A9-75B2-4FCD-83C0-0C03F997F45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDD77A9-75B2-4FCD-83C0-0C03F997F45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDD77A9-75B2-4FCD-83C0-0C03F997F45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDD77A9-75B2-4FCD-83C0-0C03F997F45C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB4ED11-C980-45BE-89B8-BF8E7C1987E1}
+	EndGlobalSection
+EndGlobal
